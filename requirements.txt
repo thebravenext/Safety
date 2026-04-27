@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+jinja2
+python-multipart
+sqlalchemy
+pydantic
+opencv-python
+ultralytics
+numpy
+itsdangerous
+python-dotenv
+pytest
+httpx
